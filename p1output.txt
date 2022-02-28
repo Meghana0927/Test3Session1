@@ -1,1 +1,6 @@
-
+ gcc p1original.c
+ ./a.out
+Enter two fractions
+1 4
+1 2
+The sum of 1/4 and 1/2 is 3/4
